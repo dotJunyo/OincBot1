@@ -1,0 +1,19 @@
+{
+  "name": "pigbot",
+  "version": "0.5.2b",
+  "main": "main.js",
+  "scripts": {
+    "test": "erro"
+  },
+  "author": "dotJunyo",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "async.queue": "^0.5.2",
+    "discord": "^0.8.2",
+    "discord.js": "^12.4.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
